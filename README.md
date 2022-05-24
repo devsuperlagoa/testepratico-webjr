@@ -2,9 +2,9 @@
 
 ## Faça um fork do projeto raiz e siga as intruções a seguir:
 
-Construir uma aplicação web para consulta de endereço. (Front-End e Back-End)
+Construa uma aplicação web para consulta de endereços. (Front-End e Back-End)
 
-A aplicação deve fazer uma chamada na API via cep: https://viacep.com.br/
+A aplicação deve fazer uma requisição na API do via cep: https://viacep.com.br/
 
 ### Requisitos:
   * Usar PHP 7 ou Superior. (Puro)
@@ -18,7 +18,7 @@ A aplicação deve fazer uma chamada na API via cep: https://viacep.com.br/
   
 ### Tratamentos:
   * Antes de uma nova consulta precisa ser verificado se o cep já foi consultado, caso tenha sido, trazer informação do banco de dados e não deve efetuar uma nova consulta na API.
-  * Tratar os possiveis erros. Dando o retorno do erro pro usuário.
+  * Tratar os possiveis erros.
   
 ### Observações: 
   * Criatividade no Layout será um diferencial.
