@@ -7,7 +7,7 @@ Construir uma aplicação web para consulta de endereço. (Front-End e Back-End)
 A aplicação deve fazer uma chamada na API via cep: https://viacep.com.br/
 
 ### Requisitos:
-  * Usar PHP 5.6 ou Superior. (Puro)
+  * Usar PHP 7 ou Superior. (Puro)
   * Usar PDO.
   * JavaScript. (Puro)
   * Utilização do Framework Bootstrap.
