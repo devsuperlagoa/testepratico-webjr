@@ -14,7 +14,7 @@ A aplicação deve fazer uma chamada na API via cep: https://viacep.com.br/
 
 ### Funcionalidades:
   * Retorno da requisição deve ser em JSON.
-  * Salvar os dados consultados em uma DB. (MySQL)
+  * Salvar os dados consultados em uma DB. (MySQL ou PostgreSQL)
   
 ### Tratamentos:
   * Antes de uma nova consulta precisa ser verificado se o cep já foi consultado, caso tenha sido, trazer informação do banco de dados e não deve efetuar uma nova consulta na API.
