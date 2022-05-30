@@ -21,10 +21,10 @@ A aplicação deve fazer uma requisição na API do via cep: https://viacep.com.
   * Tratar os possiveis erros.
   
 ### Observações: 
-  * Criatividade no Layout será um diferencial.
-  * Utilização do MVC será um diferencial.
-  * Desenvolvimento com POO será um diferencial.
   * Disponibilizar no repositório o SQL desenvolvido.
+  * Criatividade no Layout será um diferencial.
+  * Desenvolvimento com POO ou MVC será um diferencial.
+  * Documentação do projeto será um diferencial.
 
 ### Entrega: 
  * Disponibilizar um link do repositório no GitHub via e-mail e encaminhar para desenvolvimento@superlagoa.com.br
