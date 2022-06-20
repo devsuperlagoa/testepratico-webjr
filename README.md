@@ -9,7 +9,6 @@ A aplicação deve fazer uma requisição na API do via cep: https://viacep.com.
 ### Requisitos:
   * Usar PHP 7 ou Superior. (Puro)
   * Usar PDO.
-  * JavaScript. (Puro)
   * Utilização do Framework Bootstrap.
 
 ### Funcionalidades:
